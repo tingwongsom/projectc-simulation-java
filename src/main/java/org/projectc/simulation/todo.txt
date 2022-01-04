@@ -1,0 +1,2 @@
+one wallet cannot hold more than 1% of total supply, overall.
+one transaction cannot be worth more than 1% of supply in LP.
